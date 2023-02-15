@@ -1,0 +1,5 @@
+/venv/
+/application/static/.webassets-cache/
+/application/static/dist/
+.env
+.idea
